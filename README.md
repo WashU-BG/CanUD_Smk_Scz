@@ -21,3 +21,15 @@ Summary statistics are available to download via box using the link below:
 [will be updated with reference once published]
 
 ## File description
+
+| Column | Description |
+| --- | --- |
+| CHR | chromosome |
+| POS | genome position |
+| rsid | rs ID for variant |
+| Allele1 | allele 1 |
+| Allele2 | allele 2 |
+| N | sample size |
+| BETA | effect size of allele 1 |
+| SE | standard error of BETA |
+| p.value | p value |
