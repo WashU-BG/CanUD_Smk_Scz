@@ -13,8 +13,9 @@ We provide the summary statistics in their direct output format from ASSET, but 
 
 
 ## Download Instructions
-Summary statistics are available to download via box using the link below:
+Summary statistics are available to download via dropbox using the link below:
 
+[download](https://www.dropbox.com/home/CanUD_Smk_Scz_summarystats)
 
 ## Citation for studies using this data
 
@@ -24,12 +25,15 @@ Summary statistics are available to download via box using the link below:
 
 | Column | Description |
 | --- | --- |
-| CHR | chromosome |
-| POS | genome position |
-| rsid | rs ID for variant |
-| Allele1 | allele 1 |
-| Allele2 | allele 2 |
-| N | sample size |
-| BETA | effect size of allele 1 |
-| SE | standard error of BETA |
-| p.value | p value |
+| SNP | rs ID for variant |
+| Pvalue | p value |
+| Pvalue.1 | |
+| Pvalue.2 | |
+| OR.1 | |
+| CI.low.1 | |
+| CI.high.1 | |
+| OR.2 | |
+| CI.low.2 | |
+| CI.high.2 | |
+| pheno.1 | |
+| pheno.2 | |
